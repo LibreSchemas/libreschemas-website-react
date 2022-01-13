@@ -6,12 +6,12 @@ import Container from 'react-bootstrap/Container'
 import Image from 'react-bootstrap/Image'
 import Row from 'react-bootstrap/Row'
 
-function Index() {
+function TermsOfService() {
   return (<div>
     <Container className="my-3">
       <Row>
         <Col>
-          <h2 className="text-center">Coming Soon</h2>
+          <h2 className="text-center">Terms Of Service</h2>
           </Col>
       </Row>
       <Row>
@@ -24,7 +24,7 @@ function Index() {
   )
 }
 
-Index.getLayout = function getLayout(page: ReactElement) {
+TermsOfService.getLayout = function getLayout(page: ReactElement) {
   return (
     <Layout>
       {page}
@@ -32,4 +32,4 @@ Index.getLayout = function getLayout(page: ReactElement) {
   )
 }
 
-export default Index
+export default TermsOfService

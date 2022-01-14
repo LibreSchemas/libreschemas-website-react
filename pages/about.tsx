@@ -17,7 +17,7 @@ function About() {
       <Row>
         <Col md={12}>
           <p>Libreschemas is an Autism and Social Anxiety app developed for the Neurodiversity movement to be led by those who identify as Autistic.  Libreschemas is Free and Open Source Software (FOSS) licensed under various Copyleft licenses. LibreSchemas is derived from <a target="_blank" href="https://neuroschemas.app">NeuroSchemas</a>, an original App created by Shaun Vos on behalf of Dev Mindset Community Interest Company that was release in June 2021 to assist in learning the hidden curriculum through Social Schemas.</p>
-          <h5 class="text-start">Copyleft vs Copyright Licensing</h5>
+          <h5 className="text-start">Copyleft vs Copyright Licensing</h5>
           <p>Many are familiar with the term Copyright whereby the creator or owner of a creative work has the exclusive right to distribute and adapt a work plus the economic rights on how it is used. Creators can mark their work with the <span style={{ fontWeight: "bold" }}>©</span> symbol to indicate copyright since the Berne Convention of 1886. Examples of proprietary copyrighted work are <a target="_blank" href="https://www.office.com">Microsoft Office</a>, <a target="_blank" href="https://twitter.com">Twitter</a>, the <a target="_blank" href="https://www.britannica.com">Encyclopædia Britannica</a> and NeuroSchemas.</p>
           <p>Copyleft is a method of using the copyright to make a work free and requiring all modified and extended versions to be "Free" as well. "Free" in this case doesn't mean free as "Free Beer" but as in freedom to make your own. Copyleft is based on the four freedoms:</p>
           <ul>

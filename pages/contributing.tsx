@@ -15,10 +15,18 @@ function Contributing() {
           </Col>
       </Row>
       <Row>
-        <Col md={8}>
-          Under Construction.
+        <Col md={12}>
+          <h5>Contributing to LibreSchemas</h5>
+          <p>Notes</p>
+          <ul>
+            <li>co-production</li>
+            <li>Reciprocity</li>
+            <li>Not just for coders (images, content) point to learning</li>
+            <li>https://apo.org.au/node/312607</li>
+            <li>point to learning javascript and photoshop.</li>
+          </ul>
         </Col>
-    </Row>
+        </Row>
     </Container>
     </div>
   )

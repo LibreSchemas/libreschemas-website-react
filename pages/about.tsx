@@ -1,3 +1,14 @@
+/*  Copyright 2022 Dev Mindset Community Interest Company
+
+    This file is part of LibreSchemas.org Website for React.
+
+    LibreSchemas.org Website for React is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+    LibreSchemas.org Website for React is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License along with LibreSchemas.org Website for React. If not, see <https://www.gnu.org/licenses/>.
+*/
+
 import type { ReactElement } from 'react'
 import Layout from '../components/layout'
 
@@ -16,7 +27,7 @@ function About() {
       </Row>
       <Row>
         <Col md={12}>
-          <p>Libreschemas is an Autism and Social Anxiety app developed for the Neurodiversity movement to be led by those who identify as Autistic.  Libreschemas is Free and Open Source Software (FOSS) licensed under various Copyleft licenses. LibreSchemas is derived from <a target="_blank" href="https://neuroschemas.app">NeuroSchemas</a>, an original App created by Shaun Vos on behalf of Dev Mindset Community Interest Company that was release in June 2021 to assist in learning the hidden curriculum through Social Schemas.</p>
+          <p>Libreschemas is an Autism and Social Anxiety app developed for the <a target="_blank" href="https://neurodiversity2.blogspot.com/p/what.html">Neurodiversity Movement</a> to be led by those who identify as Autistic.  Libreschemas is Free and Open Source Software (FOSS) licensed under various Copyleft licenses. LibreSchemas is derived from <a target="_blank" href="https://neuroschemas.app">NeuroSchemas</a>, an original App created by Shaun Vos on behalf of Dev Mindset Community Interest Company that was release in June 2021 to assist in learning the hidden curriculum through Social Schemas.</p>
           <h5 className="text-start">Copyleft vs Copyright Licensing</h5>
           <p>Many are familiar with the term Copyright whereby the creator or owner of a creative work has the exclusive right to distribute and adapt a work plus the economic rights on how it is used. Creators can mark their work with the <span style={{ fontWeight: "bold" }}>©</span> symbol to indicate copyright since the Berne Convention of 1886. Examples of proprietary copyrighted work are <a target="_blank" href="https://www.office.com">Microsoft Office</a>, <a target="_blank" href="https://twitter.com">Twitter</a>, the <a target="_blank" href="https://www.britannica.com">Encyclopædia Britannica</a> and NeuroSchemas.</p>
           <p>Copyleft is a method of using the copyright to make a work free and requiring all modified and extended versions to be "Free" as well. "Free" in this case doesn't mean free as "Free Beer" but as in freedom to make your own. Copyleft is based on the four freedoms:</p>
@@ -26,7 +37,7 @@ function About() {
             <li>The freedom to copy and share the work with others.</li>
             <li>The freedom to modify the work, and the freedom to distribute modified and therefore derivative works.</li>
           </ul>
-          <p>Some creators conversely use the Copyleft Symbol <span style={{ fontWeight: "bold", display: "inline-block", transform: "rotate(180deg)" }}>&copy;</span> to mark their work (have a look at our logo) but this has no legal status. Copyright owners therefore issue creative work under license (a right under copyright) that meet the four freedoms and perhaps additional objectives of the project.</p>
+          <p>Some creators conversely use the Copyleft Symbol <span style={{ fontWeight: "bold", display: "inline-block", transform: "rotate(180deg)" }}>&copy;</span> to mark their work (have a look at our logo) but this has no legal status. Copyright owners therefore issue creative work under license (a right under copyright) that meet the four freedoms and perhaps additional social objectives of the project.</p>
           <p>
             The most popular FOSS licenses used today have Philosophical differences:</p>
             <ul>

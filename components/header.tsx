@@ -31,9 +31,8 @@ function Header() {
             <Nav className="me-auto pt-2 pl-2 px-3">
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="/about">About</Nav.Link>
-                <Nav.Link href="/contributing">FAQ</Nav.Link>
+                <Nav.Link href="/faq">FAQ</Nav.Link>
                 <Nav.Link href="/contributing">Contributing</Nav.Link>
-                <Nav.Link href="/learnining">Learning</Nav.Link>
                 <Nav.Link href="/documentation">Documentation</Nav.Link>
             </Nav>
         </Navbar.Collapse>

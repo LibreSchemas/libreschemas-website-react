@@ -24,7 +24,7 @@ function Header() {
             className="d-inline-block align-top"
             alt="LibreSchemas Logo"
             />{' '}
-            <span style={{fontSize: 40}}>LibreSchemas</span>
+            <span style={{fontSize: 35}}>LibreSchemas</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

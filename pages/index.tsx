@@ -22,12 +22,12 @@ function Index() {
     <Container className="my-3">
       <Row>
         <Col>
-          <h2 className="text-center">Coming Soon</h2>
+          <h2 className="text-center">Under Construction</h2>
           </Col>
       </Row>
       <Row>
         <Col md={8}>
-          Under Construction.
+          We don't have a homepage yet but you can read our other pages.
         </Col>
     </Row>
     </Container>

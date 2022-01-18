@@ -34,7 +34,7 @@ function Footer() {
                         </Col>
                     </Row>
                     <Row>
-                        <Col sm={12} lg={8}>
+                        <Col sm={12} lg={12}>
                             <ul className="list-unstyled">
                                 <li className='mb-1'><a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><Image style={{background:"white"}} src="/images/agplv3-88x31.png" /></a> <a target="_blank" style={{ color: "#FFFFFF" }}href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo">LibreSchemas Client using React Native Expo</a></li>
                                 <li className='mb-1'><a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><Image style={{background:"white"}} src="/images/agplv3-88x31.png" /></a> <a target="_blank" style={{ color: "#FFFFFF" }}href="https://github.com/LibreSchemas/libreschemas-client-react-native">LibreSchemas Client using React Native</a></li>
@@ -42,17 +42,10 @@ function Footer() {
                                 <li className='mb-1'><a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><Image style={{background:"white"}} src="/images/agplv3-88x31.png" /></a> <a target="_blank" style={{ color: "#FFFFFF" }}href="https://github.com/LibreSchemas/libreschemas-website-react">LibreSchemas Website using React Next.js</a></li>
                                 <li className='mb-1'><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><Image src="/images/cc-by-sa-4-88x31.png" /></a> <a target="_blank" style={{ color: "#FFFFFF" }}href="https://github.com/LibreSchemas/libreschemas-datasets">LibreSchemas Datasets</a></li>
                                 <li className='mb-1'><a target="_blank" rel="license" href="https://www.gnu.org/licenses/gpl-3.0.en.html"><Image style={{background:"white"}} src="/images/gplv3-88x31.png" /></a> <a target="_blank" style={{ color: "#FFFFFF" }}href="https://github.com/LibreSchemas/libreschemas-datasets-gplv3">LibreSchemas Datasets</a></li>
-                                <li className='mb-1'><a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><Image style={{background:"white"}} src="/images/agplv3-88x31.png" /></a> <a target="_blank" style={{ color: "#FFFFFF" }}href="https://github.com/LibreSchemas/libreschemas-client-react-native">LibreSchemas Datasets</a></li>
+                                <li className='mb-1'><a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><Image style={{background:"white"}} src="/images/agplv3-88x31.png" /></a> <a target="_blank" style={{ color: "#FFFFFF" }}href="https://github.com/LibreSchemas/libreschemas-datasets-agplv3">LibreSchemas Datasets</a></li>
                             </ul>
                         </Col>
                     </Row>
-                </Col>
-                <Col sm={12} lg={3}>
-                    <h6 className="text-uppercase" color="white">POLICIES &amp; FURTHER INFORMATION</h6>
-                    <ul className="list-unstyled">
-                    <li><a href="/terms-of-service" style={{color:"white"}}>Terms of Service</a></li>
-                    <li><a href="/privacy-policy" style={{color:"white"}}>Privacy Policy</a></li>
-                    </ul>
                 </Col>
             </Row>
             

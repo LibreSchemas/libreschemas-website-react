@@ -93,7 +93,7 @@ function Documentation() {
       <Row>
         <Col md={12}>
           <p>The main respository is the Creative Commons CC-BY-SA 4.0.</p>
-          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets">CC-BY-SA Repository</a> | <a target="_blank" target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets-gplv3">GPLv3 Repository</a> | <a target="_blank" target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets-agplv3">AGPLv3 Repository</a>
+          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets">CC-BY-SA Repository</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets-gplv3">GPLv3 Repository</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets-agplv3">AGPLv3 Repository</a>
         </Col>
       </Row>
     </Container>

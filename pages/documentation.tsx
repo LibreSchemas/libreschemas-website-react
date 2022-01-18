@@ -52,7 +52,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/issues">Issues</a> | <a target="_blank" target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo">Code Repository</a> 
+          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo">Code Repository</a> 
         </Col>
       </Row>
       <Row>

@@ -32,7 +32,7 @@ function Faq() {
         <b>What is the difference between NeuroSchemas and LibreSchemas?</b>
         <p><a target="_blank" href="https://neuroschemas.app">NeuroSchemas</a> is a Google Play and Apple App Store App developed by Shaun Vos on behalf of his company Dev Mindset which owns the copyright. NeuroSchemas uses React Native but doesn't use the beginner friendly Expo. NeuroSchemas contains copyrighted works that Dev Mindset owns and has license to use from other providers such as stock photo images.<br/> LibraSchemas is Free and Open Source Software (FOSS) released under Copyleft licenses and contains only copyrighted works permitted to be used under Copyleft. Though some code has been ported over from NeuroSchemas as well as much being written from scratch.</p>
         <b>Who controls the LibreSchemas Project?</b>
-        <p><a target="_blank" href="https://github.com/devmindset-shaunvos">Shaun Vos</a> presently controls this website and and has admin rights (e.g. to approve changes to the LibreSchemas repositories on GitHub).  Though if more people want to contribute then sharing the rights isn't an issue. If you prefer to fork the project and make your own then that is acceptable under the Copyleft licenses.</p>
+        <p><a target="_blank" href="https://github.com/devmindset-shaunvos">Shaun Vos</a> presently controls this website as main author and has admin rights (e.g. to approve changes to the LibreSchemas repositories on GitHub).  If more people want to contribute then sharing the rights isn't an issue. If you prefer to fork (copy) the project and start your own then that is acceptable under the Copyleft licenses.</p>
         </Col>
     </Row>
     </Container>

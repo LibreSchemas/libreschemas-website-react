@@ -1,12 +1,12 @@
 /*  Copyright 2022 Dev Mindset Community Interest Company
 
-    This file is part of LibreSchemas.org Website for React.
+    This file is part of LibreSchemas Website using React Next.js.
 
-    LibreSchemas.org Website for React is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+    LibreSchemas Website using React Next.js is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-    LibreSchemas.org Website for React is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+    LibreSchemas Website using React Next.js is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
 
-    You should have received a copy of the GNU Affero General Public License along with LibreSchemas.org Website for React. If not, see <https://www.gnu.org/licenses/>.
+    You should have received a copy of the GNU Affero General Public License along with LibreSchemas Website using React Next.js. If not, see <https://www.gnu.org/licenses/>.
 */
 
 import type { ReactElement } from 'react'
@@ -32,7 +32,7 @@ function Faq() {
         <b>What is the difference between NeuroSchemas and LibreSchemas?</b>
         <p><a target="_blank" href="https://neuroschemas.app">NeuroSchemas</a> is a Google Play and Apple App Store App developed by Shaun Vos on behalf of his company Dev Mindset which owns the copyright. NeuroSchemas uses React Native but doesn't use the beginner friendly Expo. NeuroSchemas contains copyrighted works that Dev Mindset owns and has license to use from other providers such as stock photo images.<br/> LibraSchemas is Free and Open Source Software (FOSS) released under Copyleft licenses and contains only copyrighted works permitted to be used under Copyleft. Though some code has been ported over from NeuroSchemas as well as much being written from scratch.</p>
         <b>Who controls the LibreSchemas Project?</b>
-        <p><a target="_blank" href="https://github.com/devmindset-shaunvos">Shaun Vos</a> presently controls this website as main author and has admin rights (e.g. to approve changes to the LibreSchemas repositories on GitHub).  If more people want to contribute then sharing the rights isn't an issue. If you prefer to fork (copy) the project and start your own then that is acceptable under the Copyleft licenses.</p>
+        <p><a target="_blank" href="https://github.com/devmindset-shaunvos">Shaun Vos</a> presently controls this website as main author and has admin rights (e.g. to approve changes to the LibreSchemas repositories on GitHub).  If more people want to contribute then sharing the power for the benefit of all isn't an issue. If you prefer to fork (copy) the project and start your own then that is acceptable under the Copyleft licenses.</p>
         </Col>
     </Row>
     </Container>

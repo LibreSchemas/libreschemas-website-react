@@ -17,17 +17,18 @@ import Container from 'react-bootstrap/Container'
 import Image from 'react-bootstrap/Image'
 import Row from 'react-bootstrap/Row'
 
-function Index() {
+function ContactUs() {
   return (<div>
     <Container className="my-3">
       <Row>
         <Col>
-          <h2 className="text-center">Under Construction</h2>
+          <h2 className="text-center">Contact Us</h2>
           </Col>
       </Row>
       <Row>
         <Col md={8}>
-          We don't have a homepage yet but you can read our other pages.
+          <p>You can contact us via email at <a href="mailto:support@libreschemas.org">support@libreschemas.org</a></p>
+          <p>You also contact us via the Social Media links at the bottom of the page or in the GitHub Issue and Discussion tabs of our public repositories</p>
         </Col>
     </Row>
     </Container>
@@ -35,7 +36,7 @@ function Index() {
   )
 }
 
-Index.getLayout = function getLayout(page: ReactElement) {
+ContactUs.getLayout = function getLayout(page: ReactElement) {
   return (
     <Layout>
       {page}
@@ -43,4 +44,4 @@ Index.getLayout = function getLayout(page: ReactElement) {
   )
 }
 
-export default Index
+export default ContactUs

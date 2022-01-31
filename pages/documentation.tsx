@@ -32,7 +32,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          We don't have a compiled binary to download (an executable program for non-technical users) so no documention has been written. Though early development versions are available from the <a href="https://github.com/LibreSchemas">LibreSchemas GitHub Repositories</a> if your are technically minded. You are welcome to contribute in discussions below.
+          We don&apos;t have a compiled binary to download (an executable program for non-technical users) so no documention has been written. Though early development versions are available from the <a href="https://github.com/LibreSchemas">LibreSchemas GitHub Repositories</a> if your are technically minded. You are welcome to contribute in discussions below.
         </Col>
       </Row>
       <Row>
@@ -52,7 +52,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo">Code Repository</a> 
+          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo">Code Repository</a> 
         </Col>
       </Row>
       <Row>
@@ -62,7 +62,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-client-react-native">Code Repository</a> 
+          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native">Code Repository</a> 
         </Col>
       </Row>
       <Row>
@@ -72,7 +72,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-server-api-react/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-server-api-react/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-server-api-react/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-server-api-react">Code Repository</a> 
+          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-server-api-react/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-server-api-react/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-server-api-react/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-server-api-react">Code Repository</a> 
         </Col>
       </Row>
       <Row>
@@ -82,7 +82,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-website-react/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-website-react/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-website-react/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-website-react">Code Repository</a> 
+          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-website-react/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-website-react/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-website-react/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-website-react">Code Repository</a> 
         </Col>
       </Row>
       <Row>
@@ -93,7 +93,7 @@ function Documentation() {
       <Row>
         <Col md={12}>
           <p>The main respository is the Creative Commons CC-BY-SA 4.0.</p>
-          <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/wiki">Wiki</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/discussions">Discussions</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets/issues">Issues</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets">CC-BY-SA Repository</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets-gplv3">GPLv3 Repository</a> | <a target="_blank" href="https://github.com/LibreSchemas/libreschemas-datasets-agplv3">AGPLv3 Repository</a>
+          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-datasets/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-datasets/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-datasets/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-datasets">CC-BY-SA Repository</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-datasets-gplv3">GPLv3 Repository</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-datasets-agplv3">AGPLv3 Repository</a>
         </Col>
       </Row>
     </Container>

@@ -29,7 +29,7 @@ function Header() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto pt-2 pl-2 px-3">
-                <Nav.Link href="/about">About</Nav.Link>
+                <Nav.Link href="/">About</Nav.Link>
                 <Nav.Link href="/faq">FAQ</Nav.Link>
                 <Nav.Link href="/contributing">Contributing</Nav.Link>
                 <Nav.Link href="/documentation">Documentation</Nav.Link>

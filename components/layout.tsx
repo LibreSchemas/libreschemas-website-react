@@ -16,13 +16,18 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Layout({ children }) {
   return (
-    <>
-      <Head>
-        <title>LibreSchemas</title>
-      </Head>
-      <Header />
-      <main>{children}</main>
-      <Footer/>
-    </>
+      <>
+        <Head>
+          <title>LibreSchemas</title>
+          <meta property="og:title" content="LibreSchemas.org" />
+          <meta property="og:image" content="https://www.libreschemas.org/images/card.jpg" />
+          <meta property="og:description" name="description" content="Co-produce Open Source Software for the NeuroDiversity Movement." />
+          <meta property="og:type" content="website"/>
+          <meta property="og:url" content="https://www.libreschemas.org" />
+        </Head>
+        <Header />
+        <main>{children}</main>
+        <Footer/>
+      </>
   )
 }

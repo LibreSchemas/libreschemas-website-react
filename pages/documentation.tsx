@@ -47,7 +47,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col>
-          <h5 className="text-left mt-3">LibreSchemas Client using React Native Expo</h5>
+          <h5 className="text-left mt-3">LibreSchemas Client using React Native Expo <span style={{color: "#8b0000"}}>(Development Started but Schemas are only listed not yet viewable)</span></h5>
         </Col>
       </Row>
       <Row>

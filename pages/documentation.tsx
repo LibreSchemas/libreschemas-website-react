@@ -32,7 +32,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          We don&apos;t have a compiled binary to download (an executable program for non-technical users) so no documention has been written. Though early development versions are available from the <a href="https://github.com/LibreSchemas">LibreSchemas GitHub Repositories</a> if your are technically minded. You are welcome to contribute in discussions below.
+          We don&apos;t have a compiled binary to download (an executable program for non-technical users) and aren&apos;t on any App Store so no user documention has been written. The source code is available from the <a href="https://github.com/LibreSchemas">LibreSchemas GitHub Repositories</a> if you are technically minded. You are welcome to contribute in discussions below.
         </Col>
       </Row>
       <Row>
@@ -47,22 +47,12 @@ function Documentation() {
       </Row>
       <Row>
         <Col>
-          <h5 className="text-left mt-3">LibreSchemas Client using React Native Expo <span style={{color: "#8b0000"}}>(Development Started but Schemas are only listed not yet viewable)</span></h5>
+          <h5 className="text-left mt-3">LibreSchemas Client</h5>
         </Col>
       </Row>
       <Row>
         <Col md={12}>
-          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native-expo">Code Repository</a> 
-        </Col>
-      </Row>
-      <Row>
-        <Col>
-          <h5 className="text-left mt-3">LibreSchemas Client using React Native <span style={{color: "#8b0000"}}>(Development Not Started)</span></h5>
-        </Col>
-      </Row>
-      <Row>
-        <Col md={12}>
-          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client-react-native">Code Repository</a> 
+          <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client/wiki">Wiki</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client/discussions">Discussions</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client/issues">Issues</a> | <a target="_blank" rel="noreferrer" href="https://github.com/LibreSchemas/libreschemas-client">Code Repository</a> 
         </Col>
       </Row>
       <Row>

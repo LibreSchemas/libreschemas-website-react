@@ -27,7 +27,7 @@ function Documentation() {
       </Row>
       <Row>
         <Col md={12}>
-          <h5 className="text-center">LibreSchemas Version 1.2.1</h5>
+          <h5 className="text-center">LibreSchemas Version 1.3.0</h5>
         </Col>
       </Row>
       <Row>
@@ -61,6 +61,17 @@ function Documentation() {
         </Col>
         <Col md={4}>
           <Image src="/images/screenshot4.jpeg" />
+        </Col>
+      </Row>
+      <Row>
+        <Col md={4}>
+          <Image src="/images/screenshot14.jpeg" />
+        </Col>
+        <Col md={4}>
+          <Image src="/images/screenshot16.jpeg" />
+        </Col>
+        <Col md={4}>
+          <Image src="/images/screenshot15.jpeg" />
         </Col>
       </Row>
       <Row>
